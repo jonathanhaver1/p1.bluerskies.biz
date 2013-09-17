@@ -37,12 +37,13 @@
 			}
 
 			p {
-				color: black;
+				color: #000033;
 				margin-left: 10%;
 				margin-right: 10%;
 				margin-left:auto;
 				margin-right:auto;
 				text-align: justify;
+				font-family: arial;
 				width:75%;
 			}
 
