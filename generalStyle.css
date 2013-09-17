@@ -4,8 +4,44 @@
 				height: 60%;
 				margin-top:	5%;
 				margin-left: 10%;
-				background-image: url("green-marble.jpg");
+				background-image: url("ricepaper_v3.png");
 				background-repeat: repeat;
+			}
+
+			h1 {
+				text-align: center;
+				font-family: arial;
+				font-size: x-large;
+			}
+
+			p {
+				color: #000033;
+				margin-left: 10%;
+				margin-right: 10%;
+				margin-left:auto;
+				margin-right:auto;
+				text-align: justify;
+				font-family: arial;
+				width:75%;
+			}
+
+			ol {
+				margin-left: 20%;
+			}
+
+			form {
+				text-align: right;
+				margin-right: 10%;
+			}
+
+			video {
+				margin-left: 40%;
+			}
+
+			audio {
+				margin-left :25%;
+				padding-top: 20px;
+				padding-bottom: 20px;
 			}
 
 			#greeting {
@@ -36,30 +72,6 @@
 				padding-right: 10px;		
 			}
 
-			p {
-				color: #000033;
-				margin-left: 10%;
-				margin-right: 10%;
-				margin-left:auto;
-				margin-right:auto;
-				text-align: justify;
-				font-family: arial;
-				width:75%;
-			}
-
-			ol {
-				margin-left: 20%;
-			}
-
-			form {
-				text-align: right;
-				margin-right: 10%;
-			}
-
-			audio {
-				margin-left :25%;
-			}
-
 			#notes {
 				font-size: small;
 				text-align: center;
@@ -84,7 +96,7 @@
 				text-decoration: none;
 				color: black;
 				display: block;
-				border: 3px blue outset;
+				border: 10px blue outset;
 				background-color: #CCCCFF;
 			}
 
