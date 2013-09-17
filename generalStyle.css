@@ -26,7 +26,12 @@
 			}
 
 			ol {
+				margin-top: 15px;
+				margin-bottom: 15px;
 				margin-left: 20%;
+				margin-right: 15%;
+				text-align: justify;
+				font-family: arial;
 			}
 
 			form {
@@ -35,7 +40,9 @@
 			}
 
 			video {
-				margin-left: 40%;
+				margin-left: 20%;
+				margin-top: 30px;
+				margin-bottom: 30px;
 			}
 
 			audio {
@@ -66,8 +73,10 @@
 
 			#remark {
 				border: 10px ridge #990000;
-				margin-left: 10%;
-				margin-right: 10%;
+				margin-top: 25px;
+				margin-bottom: 25px;
+				margin-left: 15%;
+				margin-right: 15%;
 				padding-left: 10px;
 				padding-right: 10px;		
 			}
