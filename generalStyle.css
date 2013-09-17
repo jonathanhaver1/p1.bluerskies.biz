@@ -55,6 +55,10 @@
 				margin-right: 10%;
 			}
 
+			audio {
+				margin-left :25%;
+			}
+
 			#notes {
 				font-size: small;
 				text-align: center;
